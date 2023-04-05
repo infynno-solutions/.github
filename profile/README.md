@@ -1,7 +1,4 @@
 <p align="center">
-    <a href="https://github.com/infynno-solutions">
-        ![Logo](https://github.com/infynno-solutions/.github/blob/main/profile/profile.png?raw=true)
-    </a>
     <h3 align="center">Infynno Solutions</h3>
     <p align="center">
         Expert in Laravel, React and Node Apps.
@@ -12,5 +9,11 @@
         <a href="https://tailwindblock.vercel.app/">AI Tagline Generator</a>
         ·
         <a href="https://tailwindblock.vercel.app/">Tailwind Blocks</a>
+    </p>
+    <p align="center">
+        ![React](react.svg)
+        ![Nodejs](nodejs.svg)
+        ![Laravel](laravel.svg)
+        ![AWS](amazonwebservices.svg)
     </p>
 </p>
