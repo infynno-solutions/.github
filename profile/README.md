@@ -14,7 +14,7 @@
     <table>
         <tr>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/nodejs-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/node-js.png" width="48" height="48" alt="Node.js" />
             </a>
             <br>Node.js
@@ -26,7 +26,7 @@
             <br>Express
             </td>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/reactjs-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/react.png" width="48" height="48" alt="Reactjs" />
             </a>
             <br>Reactjs
@@ -38,31 +38,31 @@
             <br>TypeScript
             </td>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/laravel-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/laravel.png" width="48" height="48" alt="Laravel" />
             </a>
             <br>Laravel
             </td>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/mysql-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/mysql.png" width="48" height="48" alt="MySql" />
             </a>
             <br>MySql
             </td>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/postgresql-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/postgresql.png" width="48" height="48" alt="Postgresql" />
             </a>
             <br>Postgresql
             </td>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/mongodb-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/mongodb.png" width="48" height="48" alt="MongoDB" />
             </a>
             <br>MongoDB
             </td>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/aws-ec2-ecs-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/aws.png" width="48" height="48" alt="AWS" />
             </a>
             <br>AWS
@@ -70,13 +70,13 @@
         </tr>
         <tr>
             <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/graphql-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/graphql.png" width="48" height="48" alt="Graphql" />
             </a>
             <br>Graphql
             </td>
         <td align="center" width="96">
-            <a href="#infynno-solutions-tech">
+            <a href="https://infynno.com/service/devops-development/">
                 <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/docker.png" width="48" height="48" alt="Docker" />
             </a>
             <br>Docker
