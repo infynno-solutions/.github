@@ -1,4 +1,5 @@
 <p align="center">
+    <img src="https://raw.githubusercontent.com/infynno-solutions/.github/main/profile/images/cover.png" alt="Infynno Solutions"/>
     <h3 align="center">Infynno Solutions</h3>
     <p align="center">
         Expert in Laravel, React and Node Apps.
