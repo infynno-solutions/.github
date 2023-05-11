@@ -7,9 +7,9 @@
         <br />
         <a href="https://infynno.com">Website</a>
         ·
-        <a href="https://tailwindblock.vercel.app/">AI Tagline Generator</a>
+        <a href="https://generatorai.infynno.com/">AI Title Generator</a>
         ·
-        <a href="https://tailwindblock.vercel.app/">Tailwind Blocks</a>
+        <a href="https://tailwindtap.com/">TailwindTap</a>
     </p>
     <h2 align="center" id="infynno-solutions-tech">Tools, languages, and other tech that We to work with.</h2>
     <table>
